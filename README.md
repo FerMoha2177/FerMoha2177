@@ -61,13 +61,9 @@
 <summary style="font-size: 20px;">Systems & OS 🖥️</summary>
 &nbsp;
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![RedHat](https://img.shields.io/badge/-Red%20Hat%20Enterprise%20Linux-EE0000?style=flat-square&logo=redhat) ![AlmaLinux](https://img.shields.io/badge/-AlmaLinux-2C375C?style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![RedHat](https://img.shields.io/badge/-Red%20Hat%20Enterprise%20Linux-EE0000?style=flat-square&logo=redhat) ![AlmaLinux](https://img.shields.io/badge/-AlmaLinux-2C375C?style=flat-square) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 
 </details>
-
-</blockquote>
-</details>
-
 ---
 
 ⚡ I design and deploy scalable systems at the edge — merging AI, real-time control, and human interaction. Whether it's guiding a car into a wash tunnel or streaming live ML vision to industrial interfaces, I'm about building what works in the real world.
