@@ -7,6 +7,7 @@
 🧪 R&D Engineer with a focus on real-time automation & smart infrastructure  
 🌐 Experienced in full-stack web dev, embedded systems, and cloud-native apps  
 🌴 Based in South Florida — building scalable, intelligent, and resilient systems
+🎓 Bachelor's of Science in Computer Science from Florida International University
 
 </details>
 
