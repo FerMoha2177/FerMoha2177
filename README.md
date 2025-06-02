@@ -56,6 +56,13 @@
 ![Jetson](https://img.shields.io/badge/-Jetson_Nano-76b900?style=flat-square&logo=nvidia) ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros) ![MODBUS](https://img.shields.io/badge/-MODBUS-blue?style=flat-square) ![OPC-UA](https://img.shields.io/badge/-OPC--UA-0072C6?style=flat-square) ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square) ![GStreamer](https://img.shields.io/badge/-GStreamer-8AE234?style=flat-square&logo=gstreamer)
 
 </details>
+<details open>
+<summary style="font-size: 20px;">Cloud ☁️</summary>
+&nbsp;
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
+
+</details>
 
 <details open>
 <summary style="font-size: 20px;">Systems & OS 🖥️</summary>
