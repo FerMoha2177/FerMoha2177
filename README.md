@@ -22,6 +22,7 @@
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)  
+![Electron.js](https://img.shields.io/badge/-Electron-2c2e3a?style=flat-square&logo=electron&logoColor=9FEAF9)  
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0ea5e9?style=flat-square&logo=tailwind-css)  
 ![ShadCN](https://img.shields.io/badge/-shadcn/ui-000?style=flat-square)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
@@ -29,7 +30,7 @@
 </details>
 
 <details open>
-<summary style="font-size: 20px;">𝘽𝙖𝙘𝙠𝙚𝙣𝙙 🧠</summary>
+<summary style="font-size: 20px;">Backend 🧠</summary>
 &nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
@@ -72,6 +73,16 @@
 ![OPC-UA](https://img.shields.io/badge/-OPC--UA-0072C6?style=flat-square)  
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square)  
 ![GStreamer](https://img.shields.io/badge/-GStreamer-8AE234?style=flat-square&logo=gstreamer)
+
+</details>
+
+<details open>
+<summary style="font-size: 20px;">Systems & OS 🖥️</summary>
+&nbsp;
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![RedHat](https://img.shields.io/badge/-Red%20Hat%20Enterprise%20Linux-EE0000?style=flat-square&logo=redhat)  
+![AlmaLinux](https://img.shields.io/badge/-AlmaLinux-2C375C?style=flat-square)
 
 </details>
 
